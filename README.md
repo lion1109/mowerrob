@@ -10,4 +10,4 @@ As hardware we use a cheap Discounter Mower Roboter. Multiple models might be su
 ## Physical Access and Driver
 
 ### Gardenfeelings R800 Easy
-Here are a few images to open and get physical access to the electronic hardware 
+Short [HowTo](models/gf-r800-easy/gf-r800-easy.md) to open and get physical access to the electronic hardware 
